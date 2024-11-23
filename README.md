@@ -23,5 +23,11 @@ DevOps & Tools:
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-%23F05033.svg?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 
 🤝 Let’s Connect!
-💼 LinkedIn: https://www.linkedin.com/in/yazan-sorour/
-✉️ Email: yazansorour1@gmail.com
+
+💼 LinkedIn: 
+
+https://www.linkedin.com/in/yazan-sorour/
+
+✉️ Email:
+
+yazansorour1@gmail.com
