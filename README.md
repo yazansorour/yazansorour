@@ -4,9 +4,9 @@
 Welcome to my GitHub! I’m a Full Stack Developer who loves turning ideas into reality. Over the past 7 years, I’ve worked on web, mobile, and IoT projects, building things that solve problems and make people’s lives easier.
 ⚡ A Bit About Me
 
-    💻 I enjoy working with React, Laravel, Node.js, and more!
-    🌟 Building apps that are fast, scalable, and easy to use is my thing.
-    🧠 I’m always learning—currently diving deeper into AI-powered tools.
+💻 I enjoy working with React, Laravel, Node.js, and more!
+🌟 Building apps that are fast, scalable, and easy to use is my thing.
+🧠 I’m always learning—currently diving deeper into AI-powered tools.
 
 💼 My Skills
 Frontend:
@@ -17,5 +17,5 @@ DevOps & Tools:
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-%23F05033.svg?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 🤝 Let’s Connect!
 
-    💼 LinkedIn: Yazan Sorour
-    ✉️ Email: yazansorour1@gmail.com
+💼 LinkedIn: Yazan Sorour
+✉️ Email: yazansorour1@gmail.com
